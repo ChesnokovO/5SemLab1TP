@@ -1,0 +1,9 @@
+FlatFigure, ring, 10, 314, circle
+FlatFigure, rectangle, 15, 225, square
+FlatFigure, rectangle, 13x15, 195, rectangle
+FlatFigure, triangle, 13x14x15, 84, obtuse_triangle
+FlatFigure, triangle, 20x20x39, 86.6599, sharp-angled_triangle
+FlatFigure, triangle, 3x4x5, 6, rectangular_triangle
+ThreeDimFigure, sphere, 10, 1256, circle
+ThreeDimFigure, parallelepiped, 10x11x12, 1320, rectangle
+ThreeDimFigure, parallelepiped, 10x10x10, 1000, square
